@@ -1,0 +1,16 @@
+- type: entity
+  parent: BaseBarSign
+  id: BarSignDrunkCherry
+  name: barsign-prototype-name-drunk-cherry
+  description: barsign-prototype-description-cherry
+  components:
+  - type: BarSign
+    current: DrunkCherry
+
+- type: barSign
+  id: DrunkCherry
+  name: barsign-prototype-name-drunk-cherry
+  icon: 
+    sprite: _Mriya/Structures/Wallmounts/barsign.rsi
+    state: drunkcherry
+  description: barsign-prototype-description-cherry
