@@ -9,8 +9,8 @@
 
 - type: barSign
   id: DrunkCherry
-  name: П'яна вишня 
+  name: barsign-prototype-name-drunk-cherry 
   icon: 
     sprite: _Mriya/Structures/Wallmounts/barsign.rsi
     state: drunkcherry
-  description: Фірмова космічна наливка, зроблена з найсолодших вишеньок в усій галактиці!
+  description: barsign-prototype-description-cherry
