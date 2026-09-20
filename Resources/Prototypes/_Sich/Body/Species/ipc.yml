@@ -277,7 +277,7 @@
       235: 0.6
   - type: ThermalRegulator #типу охолодження від сиситеми охолодження
     metabolismHeat: 800
-    radiatedHeat: 100
+    radiatedHeat: 1000 #металеві тому швидше міняють її ід навколишнього середовищя
     implicitHeatRegulation: 500
     sweatHeatRegulation: 2000
     shiveringHeatRegulation: 2000
